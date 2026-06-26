@@ -1,17 +1,7 @@
 # Hey, I'm Siro 👋
 
 **Founder @ [Syncsolutions.ai](https://syncsolutions.ai) · AI/ML Engineer in progress · MBA Candidate**  
-Building AI automation systems out of Queens, NYC.
-
----
-
-## 🚀 What I'm Building
-
-| Project | Description |
-|---|---|
-| **RivalRadar** | B2B competitor monitoring SaaS for indie hackers & small SaaS founders |
-| **Hermes** | Agentic AI system |
-| **Daily Roast** | Agentic LinkedIn content pipeline for automated lead gen |
+Building AI automation systems out of New York City.
 
 ---
 
@@ -70,8 +60,8 @@ Building AI automation systems out of Queens, NYC.
 
 ## ⚙️ Setup
 
-- 🍎 Apple M5 Max · 64GB · MacBook Pro 16"
-- 🖥️ RTX 3090 · i7-14700KF · 64GB DDR5 *(local training + Ollama inference)*
+- 🍎 Apple M5 Max · 64GB · MacBook Pro 16" *(I much prefer this, apple on top)*
+- 🖥️ RTX 5090 · i7-14700KF · 256GB DDR5 *(local training + Ollama inference)*
 
 ---
 
